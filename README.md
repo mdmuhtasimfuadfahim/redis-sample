@@ -31,12 +31,12 @@ https://github.com/mdmuhtasimfuadfahim/redis-sample.git
   </br>
 
 **Step 3: Run the command to start the server:** </br>
- # For development
+ ###### For development
 ```bash
 npm run dev
 ```
 
-# For production
+###### For production
 ```bash
 npm run start
 ```

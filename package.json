@@ -1,0 +1,31 @@
+{
+  "name": "redis-test",
+  "version": "1.0.0",
+  "description": "this is a sample api test project using redis",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdmuhtasimfuadfahim/redis-sample.git"
+  },
+  "author": "muhtasimfahim.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdmuhtasimfuadfahim/redis-sample/issues"
+  },
+  "homepage": "https://github.com/mdmuhtasimfuadfahim/redis-sample#readme",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "redis": "^4.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
